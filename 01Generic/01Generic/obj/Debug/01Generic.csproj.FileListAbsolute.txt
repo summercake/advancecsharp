@@ -1,0 +1,13 @@
+D:\VS2013Projects\AdvanveCSharp\01Generic\01Generic\bin\Debug\01Generic.exe.config
+D:\VS2013Projects\AdvanveCSharp\01Generic\01Generic\bin\Debug\01Generic.exe
+D:\VS2013Projects\AdvanveCSharp\01Generic\01Generic\bin\Debug\01Generic.pdb
+D:\VS2013Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.csprojResolveAssemblyReference.cache
+D:\VS2013Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.exe
+D:\VS2013Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.pdb
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\bin\Debug\01Generic.exe.config
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\bin\Debug\01Generic.exe
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\bin\Debug\01Generic.pdb
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.csprojResolveAssemblyReference.cache
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.csproj.CoreCompileInputs.cache
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.exe
+D:\VS2017Projects\AdvanveCSharp\01Generic\01Generic\obj\Debug\01Generic.pdb
